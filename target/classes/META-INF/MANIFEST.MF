@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: pagamento-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Maxwell
+Implementation-Vendor-Id: com.pucminas.pagamentoapi
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/pagamento-api
+Created-By: Maven Integration for Eclipse
+
